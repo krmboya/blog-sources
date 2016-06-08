@@ -1,0 +1,10 @@
+{
+    "blog_title": "Ken's blog",
+    "blog_description": "Thoughts and stuff",
+    "blog_image": "http://www.99nth.com/~krm/static/img/portrait.jpg",
+    "entries_directory": "content/entries",
+    "pages_directory": "content/pages",
+    "templates_directory": "templates",
+    "static_directory": "static",
+    "output_directory": "output"
+}

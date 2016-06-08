@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+
+{% block content %}    
+
+{% for entry in entries %}
+<article class="content single-article"> 
+  
+  <header>
+    <time datetime="{{ entry.pubdate.strftime("%Y-%m-%d") }}" pubdate>
+      {{ entry.pubdate.strftime("%b %d, %Y") }}
+    </time>
+    <h1 class="article-heading">
+      <a href="{{ entry.filename }}" rel="bookmark" title="link to this post">
+	{{ entry.title.0 }}
+      </a>
+    </h1>
+  </header>
+
+  <p class="">{{ entry.description.0 }}</p>
+  
+  <p class="article-tags">
+    Posted under <br />
+    {% for t in entry.tags %}<span class="tag">{{ t }}</span>{% if not loop.last %}, 
+    {% endif %}{% endfor %}
+  </p>
+
+</article>
+
+{% endfor %}
+
+{% endblock %}
