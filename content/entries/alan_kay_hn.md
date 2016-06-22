@@ -5,6 +5,8 @@ Tags: computer science
 PubDate: 2016-06-22
 Description: Alan Kay does an AMA on HN
 
+![Alan Kay giving a talk](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Alan_Kay_%283097597186%29.jpg/320px-Alan_Kay_%283097597186%29.jpg)
+
 Here's the [thread](https://news.ycombinator.com/item?id=11939851)
 
 How can I describe the feeling while reading through the responses? Almost like 
