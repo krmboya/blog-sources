@@ -3,7 +3,9 @@ Tags: logic
     conditional
     philosophy
 PubDate: 2016-06-29
-Description: 
+Description: A small dose of logic..
+
+![A philosopher thinking](static/img/introspection.jpg)
 
 Let's say that the statement **if P then Q** is true.
 
