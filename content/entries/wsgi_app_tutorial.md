@@ -8,3 +8,6 @@ Description: A good barebones introduction to Python's WSGI spec that I found
 A good barebones introduction to Python's WSGI spec that I found:
 
 [http://wsgi.tutorial.codepoint.net/](http://wsgi.tutorial.codepoint.net/)
+
+Now [let's get hacking!!](https://www.teachprivacy.com/the-funniest-hacker-stock-photos-2-0/)
+
