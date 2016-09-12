@@ -20,4 +20,6 @@ academic/programmer/hacker. Also some interesting geek culture stuff
 
 [Joe Armstrong](https://joearms.github.io/) - Erlang inventor
 
+[Aphyr](https://aphyr.com/) - Writes a lot on distributed systems
+
 Some more here as I recall/discover them..
