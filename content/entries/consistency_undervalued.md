@@ -2,7 +2,7 @@ Title: Consistency Undervalued
 Tags: distributed systems
       databases
       acid
-      cap
+      cap theorem
 PubDate: 2016-09-26
 Description: On consistency being consistently undervalued
 
