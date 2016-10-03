@@ -22,4 +22,6 @@ academic/programmer/hacker. Also some interesting geek culture stuff
 
 [Aphyr](https://aphyr.com/) - Writes a lot on distributed systems
 
+[Linux Journal](https://www.linuxjournal.com) - This is technically a magazine
+
 Some more here as I recall/discover them..
