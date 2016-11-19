@@ -22,9 +22,12 @@ academic/programmer/hacker. Also some interesting geek culture stuff
 
 [Aphyr](https://aphyr.com/) - Writes a lot on distributed systems
 
-[Idlewords](http://idlewords.com/talks/deep_fried_data.htm) - Lots of great
+[Idlewords](http://idlewords.com/) - Lots of great
 insights about the internet. Owner of [Pinboard](http://pinboard.in/)
 
 [Linux Journal](https://www.linuxjournal.com) - This is technically a magazine
+
+[Daniel Meissler](https://danielmiessler.com/study) - A set of tutorials on 
+various topics, from tech through business to social matters
 
 Some more here as I recall/discover them..
