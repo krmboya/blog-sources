@@ -30,4 +30,7 @@ insights about the internet. Owner of [Pinboard](http://pinboard.in/)
 [Daniel Meissler](https://danielmiessler.com/study) - A set of tutorials on 
 various topics, from tech through business to social matters
 
+[PJ Eby](http://dirtsimple.org/programming/index.html) - Great Python 
+programming related tips
+
 Some more here as I recall/discover them..
