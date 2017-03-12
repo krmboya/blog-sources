@@ -33,4 +33,10 @@ various topics, from tech through business to social matters
 [PJ Eby](http://dirtsimple.org/programming/index.html) - Great Python 
 programming related tips
 
+[joepie91](http://cryto.net/~joepie91/blog/) - crypto.net admin. Writes about
+opensource, internet, privacy, security
+
+[cleancoder](http://blog.cleancoder.com) - Interesting articles by
+'Uncle Bob'. Well known in the Agile Software Development circles.
+
 Some more here as I recall/discover them..
