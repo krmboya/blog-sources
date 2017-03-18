@@ -39,4 +39,7 @@ opensource, internet, privacy, security
 [cleancoder](http://blog.cleancoder.com) - Interesting articles by
 'Uncle Bob'. Well known in the Agile Software Development circles.
 
+[The HFT Guy](https://thehftguy.com/) - A developer in London with
+interesting things to say for the career programmer
+
 Some more here as I recall/discover them..
